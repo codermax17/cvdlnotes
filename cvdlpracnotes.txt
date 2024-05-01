@@ -1,5 +1,5 @@
 cvdl prac
-mitesh bhadwa hai
+
 h5data=Hierarchical Data Format,to store and organize large amounts of data
 Gradient Descent :- AN optimization tecchnique 
 		   1)minimises the cost function of a neural network model during training.
